@@ -1,4 +1,4 @@
-/* This GameMode is made by Spydah
+/* This GameMode is made by Spydah / Haribo Inc
 				You may:
 				        Edit the script
 				        Use the script
