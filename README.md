@@ -2,5 +2,15 @@
 San Andreas Multiplayer Roleplay gamemode.
 Made by Spydah / Haribo Inc
 
+# Includes
+- Old saving system based on INI.
+- Account system.
+- Admin system.
+- Faction system.
+- Gang system.
+- License system.
 
-Uses an old method of saving files which is saving in ini files.
+
+
+It's based in El Quabrados
+
